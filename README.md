@@ -2,7 +2,7 @@
 
 **Name:** Prajwal R
 
-**Major / Area of Interest:** Majoring in Artificial Intelligence — with interests in Software Engineering and AI
+**Major / Area of Interest:** First year student at USF, Majoring in Artificial Intelligence — with interests in Software Engineering and AI.
 
 ## About This Repository
 This repository will contain my coursework assignments, lab exercises, and personal practice scripts as I learn foundational programming concepts at Bellini College.
