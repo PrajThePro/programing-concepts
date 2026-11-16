@@ -1,6 +1,7 @@
 # Programming Concepts
 
 **Name:** Prajwal R
+
 **Major / Area of Interest:** Majoring in Artificial Intelligence — with interests in Software Engineering and AI
 
 ## About This Repository
